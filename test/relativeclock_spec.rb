@@ -25,7 +25,7 @@ describe SingaporeRelativeClock do
 		0 
 		end
 		if (city equal "Sydney") do
-		-3
+		-2
 		end
 	end
 end
